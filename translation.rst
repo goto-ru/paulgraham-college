@@ -12,7 +12,7 @@ Hacking
 
 What should you do in college to become a `good hacker <http://www.paulgraham.com/gh.html>`__? There are two main things you can do: become very good at programming, and learn a lot about specific, cool problems. These turn out to be equivalent, because each drives you to do the other.
 
-The way to be good at programming is to work (a) a lot (b) on hard problems. And the way to mаke yourself work on hard problems is to work on some very engaging project.
+The way to be good at programming is to work (a) a lot (b) on hard problems. And the way to make yourself work on hard problems is to work on some very engaging project.
 
 Odds are this project won't be a class assignment. My friend Robert learned a lot by writing network software when he was an undergrad. One of his projects was to connect Harvard to the Arpanet; it had been one of the original nodes, but by 1984 the connection had died. [1]_ Not only was this work not for a class, but because he spent all his time on it and neglected his studies, he was kicked out of school for a year. [2]_ It all evened out in the end, and now he's a professor at MIT. But you'll probably be happier if you don't go to that extreme; it caused him a lot of worry at the time.
 
@@ -60,7 +60,7 @@ One of the most valuable things you could do in college would be to learn what m
 
 Я бы сделал ставку на математику, инженерную историю, архитектуру и классику. Могут пригодиться и поверхностные знания об искусстве. Современная литература тоже немаловажна, но ее не надо учить, ее надо просто читать. 
 
-Все, что здесь написано и будет написано взято из личного опыта. Например, я никогда не понимал людей, смеющимися над высказыванием Клинтона: "It depends of what the meaning of the word 'is' is", потому что сам потратил около пяти занятий в университете, изучая это высказывание.
+Все, что здесь написано и будет написано взято из личного опыта. Например, я никогда не понимал людей, смеющимися над высказыванием Клинтона: "It depends on what the meaning of the word 'is' is", потому что сам потратил около пяти занятий в университете, изучая это высказывание.
 
 По другому понять, какие науки наименее популярны, нам поможет простой график изучаемости различных наук. К примеру, достоверно известно, что многие, изучая математику, перешли в ИТ сферу, потому что нашли свой предмет очень сложным. А вот количество случаев, когда люди, наоборот, из ИТ шли в математику, крайне мало. Люди не станут заниматься более сложным делом, имея под рукой легкое, разве что в сложном будут какие- нибудь пряники, вроде более высокой зарплаты и т.п. Итак математика менее популярна, нежели ИТ сфера. С помощью таких же действий вы сможете построить график(и) и для других наук.
 
@@ -149,4 +149,3 @@ Notes
 
 
 **Thanks** to Trevor Blackwell, Alex Lewin, Jessica Livingston, Robert Morris, Eric Raymond, and several `anonymous CS professors <http://www.paulgraham.com/undergrad2.html>`__ for reading drafts of this, and to the students whose questions began it.
-
