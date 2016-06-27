@@ -45,30 +45,27 @@ Like a lot of people, I was mathematically abused as a child. I learned to think
 
 One of the most valuable things you could do in college would be to learn what math is really about. This may not be easy, because a lot of good mathematicians are bad teachers. And while there are many popular books on math, few seem good. The best I can think of are W. W. Sawyer's. And of course Euclid. [4]_
 
-Everything
-----------
+Все
+---
 
-Thomas Huxley said "Try to learn something about everything and everything about something." Most universities aim at this ideal.
+Томас Хаксли сказал: "Попробуй выучить немного обо всем и все о немногом." Именно такую задачу ставят перед собой почти все университеты.
 
-But what's everything? To me it means, all that people learn in the course of working honestly on hard problems. All such work tends to be related, in that ideas and techniques from one field can often be transplanted successfully to others. Even others that seem quite distant. For example, I write `essays <http://www.paulgraham.com/essay.html>`__ the same way I write software: I sit down and blow out a lame version 1 as fast as I can type, then spend several weeks rewriting it.
+Но что есть всё? Как по мне, так это то, чему учат на курсе добросовестной работы над сложными задачами. Все работы это типа стремятся быть схожими по принципу, а по сему идеи и методы из одного проекта могут с легкостью перекочевать в другой, даже, если, на первый взгляд, эти проекты не имеют ничего общего. К примеру, я пишу `эссе <http://www.paulgraham.com/essay.html>`__ ровно также как и код: сажусь за свой стол и печатаю первые пришедшие в голову мысли так быстро, как этого позволяют мои пальцы, а потом недели 2-3 переделываю ту чепуху, что я написал сначала
 
-Working on hard problems is not, by itself, enough. Medieval alchemists were working on a hard problem, but their approach was so bogus that there was little to learn from studying it, except possibly about people's ability to delude themselves. Unfortunately the sort of AI I was trying to learn in college had the same flaw: a very hard problem, blithely approached with hopelessly inadequate techniques. Bold? Closer to fraudulent.
+Но недостаточно просто работать над проблемой. Средневековые алхимики тоже пытались превратить железо в золото, но их попытки были настолько безрезультатны, что они больше потеряли, чем получили, ну, разве что узнали о такой черте человеческого характера, как самообман.
 
-The social sciences are also fairly bogus, because they're so much influenced by intellectual `fashions <http://www.paulgraham.com/say.html>`__. If a physicist met a colleague from 100 years ago, he could teach him some new things; if a psychologist met a colleague from 100 years ago, they'd just get into an ideological argument. Yes, of course, you'll learn something by taking a psychology class. The point is, you'll learn more by taking a class in another department.
+К сожалению тот тип ИИ, который я изучал в институте, имел ту же проблему: большая сложность и малополезные доступные методы. Самонадеянно? Мягко сказано!
 
-The worthwhile departments, in my opinion, are math, the hard sciences, engineering, history (especially economic and social history, and the history of science), architecture, and the classics. A survey course in art history may be worthwhile. Modern literature is important, but the way to learn about it is just to read. I don't know enough about music to say.
+Социология, надо сказать, тоже совершенно бесполезна, потому что завязана на нынешних общественных  `устоях  <http://www.paulgraham.com/say.html>`__. Когда 100 лет назад встречались физики, они узнавали друг от друга что-нибудь новое, когда встречались психологи, они просто начинали спорить о ценностях. Конечно они что-то от этого, да получали, но можно с уверенностью сказать, что это что-то в разы меньше того, что ты получаешь в других областях науки.
 
-You can skip the social sciences, philosophy, and the various departments created recently in response to political pressures. Many of these fields talk about important problems, certainly. But the way they talk about them is useless. For example, philosophy talks, among other things, about our obligations to one another; but you can learn more about this from a wise grandmother or E. B. White than from an academic philosopher.
+Я бы сделал ставку на математику, инженерную историю, архитектуру и классику. Могут пригодиться и поверхностные знания об искусстве. Современная литература тоже немаловажна, но ее не надо учить, ее надо просто читать. 
 
-I speak here from experience. I should probably have been offended when people laughed at Clinton for saying "It depends on what the meaning of the word 'is' is." I took about five classes in college on what the meaning of "is" is.
+Все, что здесь написано и будет написано взято из личного опыта. Например, я никогда не понимал людей, смеющимися над высказыванием Клинтона: "It depends on what the meaning of the word 'is' is", потому что сам потратил около пяти занятий в университете, изучая это высказывание.
 
-Another way to figure out which fields are worth studying is to create the \_ dropout graph.\_ For example, I know many people who switched from math to computer science because they found math too hard, and no one who did the opposite. People don't do hard things gratuitously; no one will work on a harder problem unless it is proportionately (or at least log(n)) more rewarding. So probably math is more worth studying than computer science. By similar comparisons you can make a graph of all the departments in a university. At the bottom you'll find the subjects with least intellectual content.
+По другому понять, какие науки наименее популярны, нам поможет простой график изучаемости различных наук. К примеру, достоверно известно, что многие, изучая математику, перешли в ИТ сферу, потому что нашли свой предмет очень сложным. А вот количество случаев, когда люди, наоборот, из ИТ шли в математику, крайне мало. Люди не станут заниматься более сложным делом, имея под рукой легкое, разве что в сложном будут какие- нибудь пряники, вроде более высокой зарплаты и т.п. Итак математика менее популярна, нежели ИТ сфера. С помощью таких же действий вы сможете построить график(и) и для других наук.
 
-If you use this method, you'll get roughly the same answer I just gave.
-
-Language courses are an anomaly. I think they're better considered as extracurricular activities, like pottery classes. They'd be far more useful when combined with some time living in a country where the language is spoken. On a whim I studied Arabic as a freshman. It was a lot of work, and the only lasting benefits were a weird ability to identify semitic roots and some insights into how people recognize words.
-
-Studio art and creative writing courses are wildcards. Usually you don't get taught much: you just work (or don't work) on whatever you want, and then sit around offering "crits" of one another's creations under the vague supervision of the teacher. But writing and art are both very hard problems that (some) people work honestly at, so they're worth doing, especially if you can find a good teacher.
+Но, как и везде, здесь есть свои феномены, например, языковые курсы.
+Как по-моему, так эту аномалию можно объяснить тем, что для людей эти курсы это не обычные уроки, а вне классные занятия, типа рисования или кулинарии. Эти курсы могут быть более полезными в паре с пребыванием в стране, в которой говорят на этом языке. Как ни страно, но конкретно я изучал арабский еще будучи первокурсником. Это было долго и все, что я получил, это способность понимать, как люди распознают слова.
 
 Jobs
 ----
