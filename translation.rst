@@ -12,7 +12,7 @@ Hacking
 
 What should you do in college to become a `good hacker <http://www.paulgraham.com/gh.html>`__? There are two main things you can do: become very good at programming, and learn a lot about specific, cool problems. These turn out to be equivalent, because each drives you to do the other.
 
-The way to be good at programming is to work (a) a lot (b) on hard problems. And the way to make yourself work on hard problems is to work on some very engaging project.
+The way to be good at programming is to work (a) a lot (b) on hard problems. And the way to mаke yourself work on hard problems is to work on some very engaging project.
 
 Odds are this project won't be a class assignment. My friend Robert learned a lot by writing network software when he was an undergrad. One of his projects was to connect Harvard to the Arpanet; it had been one of the original nodes, but by 1984 the connection had died. [1]_ Not only was this work not for a class, but because he spent all his time on it and neglected his studies, he was kicked out of school for a year. [2]_ It all evened out in the end, and now he's a professor at MIT. But you'll probably be happier if you don't go to that extreme; it caused him a lot of worry at the time.
 
@@ -150,3 +150,26 @@ Notes
 
 
 **Thanks** to Trevor Blackwell, Alex Lewin, Jessica Livingston, Robert Morris, Eric Raymond, and several `anonymous CS professors <http://www.paulgraham.com/undergrad2.html>`__ for reading drafts of this, and to the students whose questions began it.
+
+Все
+____________________
+
+Томас Хаксли сказал: "Попробуй выучить немного обо всем и все о немногом." Именно такую задачу ставят перед собой почти все   университеты.
+
+Но что есть всё? Как по мне, так это то, чему учат на курсе добросовестной работы над сложными задачами. Все работы это типа стремятся быть схожими по принципу, а по сему идеи и методы из одного проекта могут с легкостью перекочевать в другой, даже, если, на первый взгляд, эти проекты не имеют ничего общего. К примеру, я пишу эссе ровно также как и код: сажусь за свой стол и печатаю первые пришедшие в голову мысли так быстро, как этого позволяют мои пальцы, а потом недели 2-3 переделываю ту чепуху, что я написал сначала
+
+Но недостаточно просто работать над проблемой. Средневековые алхимики тоже пытались превратить железо в золото, но их попытки были настолько безрезультатны, что они больше потеряли, чем получили, ну, разве что узнали о такой черте человеческого характера, как самообман.
+
+К сожалению тот тип ИИ, который я изучал в институте, имел ту же проблему: большая сложность и малополезные доступные методы. Самонадеянно? Мягко сказано!
+
+Социология, надо сказать, тоже совершенно бесполезна, потому что завязана на нынешних общественных устоях. Когда 100 лет назад встречались физики, они узнавали друг от друга что нибудь новое, когда встречались психологи, они просто начинали спорить о ценностях. Конечно они что-то от этого, да получали, но можно с уверенностью сказать, что это что-то в разы меньше того, что ты получаешь в других областях науки.
+
+Я бы сделал ставку на математику, инженерную историю, архитектуру и классику. Могут пригодиться и поверхностные знания об искусстве. Современная литература тоже немаловажна, но ее не надо учить, ее надо просто читать. 
+
+Все, что здесь написано и будет написано взято из личного опыта. Например, я никогда не понимал людей, смеющимися над высказыванием Клинтона: "It depends of what the meaning of the word 'is' is", потому что сам потратил около пяти занятий в университете, изучая это высказывание.
+
+По другому понять, какие науки наименее популярны, нам поможет простой график изучаемости различных наук. К примеру, достоверно известно, что многие, изучая математику, перешли в ИТ сферу, потому что нашли свой предмет очень сложным. А вот количество случаев, когда люди, наоборот, из ИТ шли в математику, крайне мало. Люди не станут заниматься более сложным делом, имея под рукой легкое, разве что в сложном будут какие- нибудь пряники, вроде более высокой зарплаты и т.п. Итак математика менее популярна, нежели ИТ сфера. С помощью таких же действий вы сможете построить график(и) и для других наук.
+
+Но, как и везде, здесь есть свои феномены, например, языковые курсы.
+Как по-моему, так эту аномалию можно объяснить тем, что для людей эти курсы это не обычные уроки, а вне классные занятия, типа рисования или кулинарии. Эти курсы могут быть более полезными в паре с пребыванием в стране, в которой говорят на этом языке. Как ни страно, но конкретно я изучал арабский еще будучи первокурсником. Это было долго и все, что я получил, это способность понимать, как люди распознают слова.
+
