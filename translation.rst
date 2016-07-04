@@ -67,26 +67,26 @@ One of the most valuable things you could do in college would be to learn what m
 Но, как и везде, здесь есть свои феномены, например, языковые курсы.
 Как по-моему, так эту аномалию можно объяснить тем, что для людей эти курсы это не обычные уроки, а вне классные занятия, типа рисования или кулинарии. Эти курсы могут быть более полезными в паре с пребыванием в стране, в которой говорят на этом языке. Как ни страно, но конкретно я изучал арабский еще будучи первокурсником. Это было долго и все, что я получил, это способность понимать, как люди распознают слова.
 
-Jobs
-----
+Работа
+------
 
-Of course college students have to think about more than just learning. There are also two practical problems to consider: jobs, and graduate school.
+Конечно, учащимся колледжей приходится думать не только об обучении. Есть две основные проблемы, которые надо учесть: профессия и аттестация.
 
-In theory a liberal education is not supposed to supply job training. But everyone knows this is a bit of a fib. Hackers at every college learn practical skills, and not by accident.
+Теоретически, либеральное образование не предполагает профессиональную подготовку, но все знают, что это не совсем так. В любом колледже хакеры получают основные навыки, и это неспроста.
 
-What you should learn to get a job depends on the kind you want. If you want to work in a big company, learn how to hack `Blub <http://www.paulgraham.com/avg.html>`__ on Windows. If you want to work at a cool little company or research lab, you'll do better to learn Ruby on Linux. And if you want to start your own company, which I think will be more and more common, master the most powerful tools you can find, because you're going to be in a race against your competitors, and they'll be your horse.
+То, что вам нужно для получения работы напрямую зависит от того, что вы хотите. Если вам по душе работа в крупной компании, научитесь взламывать `Blub <http://www.paulgraham.com/avg.html>`__ на Windows. Если в небольшой компании или научной лаборатории, то лучше освойте Ruby на Linux. А если же вы хотите основать свою собственную компанию, что становится все более популярным, покорите все возможные и мощные инструменты, которые сможете найти, тогда в соревновании с конкурентами вы окажетесь на коне.
 
-There is not a direct correlation between the skills you should learn in college and those you'll use in a job. You should aim slightly high in college.
+Нет четкой связи между навыками, которые вы получаете в колледже и используемыми в работе. Вам не обязательно так сильно напрягаться в колледже.
 
-In workouts a football player may bench press 300 pounds, even though he may never have to exert anything like that much force in the course of a game. Likewise, if your professors try to make you learn stuff that's more advanced than you'll need in a job, it may not just be because they're academics, detached from the real world. They may be trying to make you lift weights with your brain.
+На тренировках футболист может выжать до 300 фунтов, несмотря на то, что он никогда не покажет даже похожего результата на игре. Аналогично, если ваши преподаватели пытаются заставить вас учить что-то более мудреное, чем то, что понадобится вам на работе, скорее всего это не потому, что они академики, отделенные от мира сего. Вероятно, они пытаются помочь вам натренировать свой мозг.
 
-The programs you write in classes differ in three critical ways from the ones you'll write in the real world: they're small; you get to start from scratch; and the problem is usually artificial and predetermined. In the real world, programs are bigger, tend to involve existing code, and often require you to figure out what the problem is before you can solve it.
+Программы, которые вы пишите в классе отличаются тремя основными вещами от тех, которые вы будете писать в будущем: они небольшие, вы начинаете с наброска, и проблемы чаще всего заранее продуманные. В реальном мире программы объемнее, могут включать в себя уже существующий код и чаще всего заставляют вас тщательно обдумать проблемы перед их решением.
 
-You don't have to wait to leave (or even enter) college to learn these skills. If you want to learn how to deal with existing code, for example, you can contribute to open-source projects. The sort of employer you want to work for will be as impressed by that as good grades on class assignments.
+Вам не нужно ждать окончания (или даже начала) обучения в колледже, чтобы получить эти навыки. Если вы хотите научиться работать с уже существующим кодом, то вы можете помогать в открытых проектах. Вам работодатель будет впечатлен этим не меньше, чем хорошими оценками.
 
-In existing open-source projects you don't get much practice at the third skill, deciding what problems to solve. But there's nothing to stop you starting new projects of your own. And good employers will be even more impressed with that.
+В существующих открытых проектах вы не научитесь понимать, какие проблемы решать, но ничто не мешает вам начать свой собственный проект. При этом хорошие работодатели будут еще более впечатлены.
 
-What sort of problem should you try to solve? One way to answer that is to ask what you need as a user. For example, I stumbled on a good algorithm for spam filtering because I wanted to stop getting spam. Now what I wish I had was a mail reader that somehow prevented my inbox from filling up. I tend to use my inbox as a todo list. But that's like using a screwdriver to open bottles; what one really wants is a bottle opener.
+Но какие же проблемы стоит решать? Можно подумать, что вам нужно как пользователю. Например, я потратил время на хороший алгоритм, фильтрующий спам, т.к. я не хотел его получать. Я бы хотел, чтобы тогда у меня было что-то типа корректора почты, который каким-то образом предотвращал переполнение. Мои входящие используются как список дел. Но это все равно, что использовать отвертку для открывания бутылок; тут больше подходит открывашка.
 
 Аспирантура
 -----------
