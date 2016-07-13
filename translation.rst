@@ -32,18 +32,18 @@ In your own projects you don't have to worry about novelty (as professors do) or
 
 If I were in college now I'd probably work on graphics: a network game, for example, or a tool for 3D animation. When I was an undergrad there weren't enough cycles around to make graphics interesting, but it's hard to imagine anything more fun to work on now.
 
-Math
-----
+Математика
+----------
 
-When I was in college, a lot of the professors believed (or at least wished) that `computer science <http://www.paulgraham.com/hp.html>`__ was a branch of math. This idea was strongest at Harvard, where there wasn't even a CS major till the 1980s; till then one had to major in applied math. But it was nearly as bad at Cornell. When I told the fearsome Professor Conway that I was interested in AI (a hot topic then), he told me I should major in math. I'm still not sure whether he thought AI required math, or whether he thought AI was nonsense and that majoring in something rigorous would cure me of such stupid ambitions.
+Когда я учился в колледже, многие профессора верили (или, по крайней мере, надеялись), что `компьютерные науки <http://www.paulgraham.com/hp.html>`__ - это ветвь математики. Сильнее всего эта идея была в Гарварде, где не было компьютерых наук до 1980-х; до этого он специализировался на прикладной математике. В Корнельском это было почти так же плохо. Когда я сказал грозному профессору Корнвэю, что я интересуюсь искусственным интеллектом (тогда эта тема была очень популярна), он сказал, что я должен специализироваться на математике. Я до сих пор не уверен, думал ли он, что ИИ требует математических знаний, или же что ИИ это ерунда и что участие в чём-то серьёзном избавит меня от таких глупых идей.
 
-In fact, the amount of math you need as a hacker is a lot less than most university departments like to admit. I don't think you need much more than high school math plus a few concepts from the theory of computation. (You have to know what an n^2 algorithm is if you want to avoid writing them.) Unless you're planning to write math applications, of course. Robotics, for example, is all math.
+На самом деле количество математики, нужное, чтобы стать хакером, гораздо меньше того, которое требуется для поступления в большинство университетов. Я не думаю, что вам понадобится что-нибудь большее, чем математика из средней школы и некоторые идеи теории вычислений. (Нужно знать, что такое n^2 алгоритмы, чтобы избежать их написания.) Если, конечно, вы не планируете писать математические приложения. Робототехника, например, полностью состоит из математики.
 
-But while you don't literally need math for most kinds of hacking, in the sense of knowing 1001 tricks for differentiating formulas, math is very much worth studying for its own sake. It's a valuable source of metaphors for almost any kind of work.[3]_ I wish I'd studied more math in college for that reason.
+Но если даже вы не нуждаетесь в математике для написания программ в смысле знания 1001 уловки для дифференциирования, математика заслуживает изучения ради неё самой. Это ценный ресурс метафор почти для любого типа работы. [3]_ Из-за этого мне бы хотелось изучить больше математики, чем было в колледже.
 
-Like a lot of people, I was mathematically abused as a child. I learned to think of math as a collection of formulas that were neither beautiful nor had any relation to my life (despite attempts to translate them into "word problems"), but had to be memorized in order to do well on tests.
+Как и многих людей, меня неправильно учили математике в детстве. Меня научили относиться к математике как к коллекции формул, которые скорее красиво выглядели, чем имели какое-либо отношение к реальной жизни (несмотря на попытки их перевода в 'word problems'), но которые нужно помнить, чтобы хорошо писать тесты.
 
-One of the most valuable things you could do in college would be to learn what math is really about. This may not be easy, because a lot of good mathematicians are bad teachers. And while there are many popular books on math, few seem good. The best I can think of are W. W. Sawyer's. And of course Euclid. [4]_
+Одна из наиболее ценных вещей, которые вы будете делать в колледже - изучение того, чем является математика на самом деле. Это будет нелегко, так как многие хорошие математики плохие учителя. И хотя есть есть много популярных книг по математике, немногие кажутся хорошими. Лучшие, по моему мнению - В.В. Сойера. И, конечно, Евклид. [4]_
 
 Все
 ---
