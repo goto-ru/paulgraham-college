@@ -8,7 +8,7 @@ March 2005
 Recently I've had several emails from computer science undergrads asking what to do in college. I might not be the best source of advice, because I was a philosophy major in college. But I took so many CS classes that most CS majors thought I was one. I was certainly a hacker, at least.
 
 Hacking
-–––––––
+-------
 
 What should you do in college to become a `good hacker <http://www.paulgraham.com/gh.html>`__? There are two main things you can do: become very good at programming, and learn a lot about specific, cool problems. These turn out to be equivalent, because each drives you to do the other.
 
@@ -18,7 +18,7 @@ Odds are this project won't be a class assignment. My friend Robert learned a lo
 
 Another way to be good at programming is to find other people who are good at it, and learn what they know. Programmers tend to sort themselves into tribes according to the type of work they do and the tools they use, and some tribes are `smarter <http://www.paulgraham.com/pypar.html>`__ than others. Look around you and see what the smart people seem to be working on; there's usually a reason.
 
-Some of the smartest people around you are professors. So one way to find interesting work is to volunteer as a research assistant. Professors are especially interested in people who can solve tedious system–administration type problems for them, so that is a way to get a foot in the door. What they fear are flakes and resume padders. It's all too common for an assistant to result in a net increase in work. So you have to make it clear you'll mean a net decrease.
+Some of the smartest people around you are professors. So one way to find interesting work is to volunteer as a research assistant. Professors are especially interested in people who can solve tedious system-administration type problems for them, so that is a way to get a foot in the door. What they fear are flakes and resume padders. It's all too common for an assistant to result in a net increase in work. So you have to make it clear you'll mean a net decrease.
 
 Don't be put off if they say no. Rejection is almost always less personal than the rejectee imagines. Just move on to the next. (This applies to dating too.)
 
@@ -33,7 +33,7 @@ In your own projects you don't have to worry about novelty (as professors do) or
 If I were in college now I'd probably work on graphics: a network game, for example, or a tool for 3D animation. When I was an undergrad there weren't enough cycles around to make graphics interesting, but it's hard to imagine anything more fun to work on now.
 
 Математика
-––––––––––
+----------
 
 Когда я учился в колледже, многие профессора верили (или, по крайней мере, надеялись), что `компьютерные науки <http://www.paulgraham.com/hp.html>`__ – это ветвь математики. Сильнее всего эта идея была в Гарварде, где не было компьютерых наук до 1980–х; до этого он специализировался на прикладной математике. В Корнельском это было почти так же плохо. Когда я сказал грозному профессору Корнвэю, что я интересуюсь искусственным интеллектом (тогда эта тема была очень популярна), он сказал, что я должен специализироваться на математике. Я до сих пор не уверен, думал ли он, что ИИ требует математических знаний, или же что ИИ это ерунда и что участие в чём–то серьёзном избавит меня от таких глупых идей.
 
@@ -46,7 +46,7 @@ If I were in college now I'd probably work on graphics: a network game, for exam
 Одна из наиболее ценных вещей, которые вы будете делать в колледже – изучение того, чем является математика на самом деле. Это будет нелегко, так как многие хорошие математики плохие учителя. И хотя есть есть много популярных книг по математике, немногие кажутся хорошими. Лучшие, по моему мнению – В.В. Сойера. И, конечно, Евклид. [4]_
 
 Все
-–––
+---
 
 Томас Хаксли сказал: "Попробуй выучить немного обо всем и все о немногом." Именно такую задачу ставят перед собой почти все университеты.
 
@@ -68,7 +68,7 @@ If I were in college now I'd probably work on graphics: a network game, for exam
 Как по–моему, так эту аномалию можно объяснить тем, что для людей эти курсы это не обычные уроки, а вне классные занятия, типа рисования или кулинарии. Эти курсы могут быть более полезными в паре с пребыванием в стране, в которой говорят на этом языке. Как ни страно, но конкретно я изучал арабский еще будучи первокурсником. Это было долго и все, что я получил, это способность понимать, как люди распознают слова.
 
 Работа
-––––––
+------
 
 Конечно, учащимся колледжей приходится думать не только об обучении. Есть две основные проблемы, которые надо учесть: профессия и аттестация.
 
@@ -89,7 +89,7 @@ If I were in college now I'd probably work on graphics: a network game, for exam
 Но какие же проблемы стоит решать? Можно подумать, что вам нужно как пользователю. Например, я потратил время на хороший алгоритм, фильтрующий спам, т.к. я не хотел его получать. Я бы хотел, чтобы тогда у меня было что–то типа корректора почты, который каким–то образом предотвращал переполнение. Мои входящие используются как список дел. Но это все равно, что использовать отвертку для открывания бутылок; тут больше подходит открывашка.
 
 Аспирантура
-–––––––––––
+-----------
 
 А как насчет аспирантуры? Стоит ли поступать? И как поступить в хорошую?
 
@@ -120,7 +120,7 @@ If I were in college now I'd probably work on graphics: a network game, for exam
 Поэтому, лучшее, что можно сделать в колледже, вне зависимости, хотите ли вы поступить в аспирантуру или просто быть хорошим хакером, это определить, что вам действительно нравится. Сложно заставить профессоров сделать вас аспирантом, и невозможно заставить задачи решаться. Именно в колледже перестает работать обман. И с этого момента, если вы не хотите идти в большую компанию, что напоминает откат к старшей школе, можно продвинуться, только делая то, что тебе `нравится <http://www.paulgraham.com/love.html>`__.
 
 Notes
-–––––
+-----
 
 .. [1] No one seems to have minded, which shows how unimportant the Arpanet (which became the Internet) was as late as 1984.
 
@@ -139,7 +139,7 @@ Notes
 .. [5] А если хотите, чтобы была идеальная жизнь, то стоит поступить в аспирантуру, тайно написать диссертацию в первые два года, а затем развлекаться следующие 3 года, записывая по главе за раз. Аспиранты позавидовали бы идее, но ни у кого из тех, кого я знаю, не хватило на это дисциплины.
 
 .. [6]
-        Один друг–профессор сказал, что 15–20% аспирантов имеют "низкую вероятность." Под этим он имел в виду, что это люди с анкетами, идеальными во всем, за исключением того, что никто из профессоров не знает тех, кто написал рекоммендации.
+        Один друг-профессор сказал, что 15–20% аспирантов имеют "низкую вероятность." Под этим он имел в виду, что это люди с анкетами, идеальными во всем, за исключением того, что никто из профессоров не знает тех, кто написал рекоммендации.
 
         Поэтому, идя в аспирантуру по наукам, надо идти в колледж с профессорами–исследователями. А иначе вы будете казаться риском коммитетам по приему, вне зависимости от того, насколько вы хороши.
 
