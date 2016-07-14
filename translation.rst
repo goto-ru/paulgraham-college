@@ -20,7 +20,7 @@ Recently I've had several emails from computer science undergrads asking what to
 
 Одними из самых умных людей вокруг вас являются профессора. Поэтому можно найти интересную работу, работая ассистентом по исследованиям. Профессорам особенно интересны люди, способные решать скучные задачи по системному администрированию, так что так можно сделать первый шаг. Они боятся ненадежных людей и ложных резюме. Очень часто случается, что ассистент увеличивает общее количество работы. Вы же хотите показать, что его уменьшите.
 
-Don't be put off if they say no. Rejection is almost always less personal than the rejectee imagines. Just move on to the next. (This applies to dating too.)
+Не переживайте, если скажут нет. Отказы почти всегда менее личностные, чем считает тот, кому отказали. Просто переходите дальше. (Это применимо и к свиданьям.)
 
 Beware, because although most professors are smart, not all of them work on interesting stuff. Professors have to publish novel results to advance their careers, but there is more competition in more interesting areas of research. So what less ambitious professors do is turn out a series of papers whose conclusions are novel because no one else cares about them. You're better off avoiding these.
 
