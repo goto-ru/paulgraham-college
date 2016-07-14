@@ -7,14 +7,14 @@ March 2005
 
 Recently I've had several emails from computer science undergrads asking what to do in college. I might not be the best source of advice, because I was a philosophy major in college. But I took so many CS classes that most CS majors thought I was one. I was certainly a hacker, at least.
 
-Хакинг
-------
+Hacking
+-------
 
-Что надо делать в колледже, чтобы стать `хорошим хакером <http://www.paulgraham.com/gh.html>`__? Есть две такие вещи: научиться хорошо программировать, и узнать достаточно много о специфических интересных задачах. Оказывается, что это эквивалентно, поскольку одно заставляет вас делать и второе.
+What should you do in college to become a `good hacker <http://www.paulgraham.com/gh.html>`__? There are two main things you can do: become very good at programming, and learn a lot about specific, cool problems. These turn out to be equivalent, because each drives you to do the other.
 
-Чтобы хорошо программировать, нужно работать много и над сложными задачами. А заставить себя работать над сложными задачами можно, начав работать над каким-то увлекательным проектом.
+The way to be good at programming is to work (a) a lot (b) on hard problems. And the way to make yourself work on hard problems is to work on some very engaging project.
 
-Скорее всего, это будет не домашнее задание. Мой друг Роберт много чего узнал, пока писал сетевое програмное обеспечение, будучи студентом. Одним из его проектов стало подключение Гарварда к Arpanet; это был один из первых хостов, но к 1984 году соединение разорвалось. [1]_ Не только это был внеклассный проект, но поскольку он тратил на него все свое время, игнорируя образование, его выкинули из школы на год. [2]_ В результате все выровнялось, и сейчас он - профессор MIT. Но вам скорее всего будет лучше, если до такого не дойдете; тогда он очень беспокоился из-за этого.
+Odds are this project won't be a class assignment. My friend Robert learned a lot by writing network software when he was an undergrad. One of his projects was to connect Harvard to the Arpanet; it had been one of the original nodes, but by 1984 the connection had died. [1]_ Not only was this work not for a class, but because he spent all his time on it and neglected his studies, he was kicked out of school for a year. [2]_ It all evened out in the end, and now he's a professor at MIT. But you'll probably be happier if you don't go to that extreme; it caused him a lot of worry at the time.
 
 Another way to be good at programming is to find other people who are good at it, and learn what they know. Programmers tend to sort themselves into tribes according to the type of work they do and the tools they use, and some tribes are `smarter <http://www.paulgraham.com/pypar.html>`__ than others. Look around you and see what the smart people seem to be working on; there's usually a reason.
 
@@ -58,7 +58,7 @@ If I were in college now I'd probably work on graphics: a network game, for exam
 
 Социология, надо сказать, тоже совершенно бесполезна, потому что завязана на нынешних общественных  `устоях  <http://www.paulgraham.com/say.html>`__. Когда 100 лет назад встречались физики, они узнавали друг от друга что-нибудь новое, когда встречались психологи, они просто начинали спорить о ценностях. Конечно они что-то от этого, да получали, но можно с уверенностью сказать, что это что-то в разы меньше того, что ты получаешь в других областях науки.
 
-Я бы сделал ставку на математику, инженерную историю, архитектуру и классику. Могут пригодиться и поверхностные знания об искусстве. Современная литература тоже немаловажна, но ее не надо учить, ее надо просто читать.
+Я бы сделал ставку на математику, инженерную историю, архитектуру и классику. Могут пригодиться и поверхностные знания об искусстве. Современная литература тоже немаловажна, но ее не надо учить, ее надо просто читать. 
 
 Все, что здесь написано и будет написано взято из личного опыта. Например, я никогда не понимал людей, смеющимися над высказыванием Клинтона: "It depends on what the meaning of the word 'is' is", потому что сам потратил около пяти занятий в университете, изучая это высказывание.
 
@@ -122,10 +122,10 @@ If I were in college now I'd probably work on graphics: a network game, for exam
 Notes
 -----
 
-.. [1] Никому до этого не было дела, что показывает, насколько Arpanet (ставший Интернетом) был в 1984 году.
+.. [1] No one seems to have minded, which shows how unimportant the Arpanet (which became the Internet) was as late as 1984.
 
 .. [2]
-        Поэтому, став работодателем, мне не были важны оценки. Мы даже активно искалиwe actively sought out people who'd failed out of school. We once put up posters around Harvard saying "Did you just get kicked out for doing badly in your classes because you spent all your time working on some project of your own? Come work for us!" We managed to find a kid who had been, and he was a great hacker.
+        This is why, when I became an employer, I didn't care about GPAs. In fact, we actively sought out people who'd failed out of school. We once put up posters around Harvard saying "Did you just get kicked out for doing badly in your classes because you spent all your time working on some project of your own? Come work for us!" We managed to find a kid who had been, and he was a great hacker.
 
         When Harvard kicks undergrads out for a year, they have to get jobs. The idea is to show them how awful the real world is, so they'll understand how lucky they are to be in college. This plan backfired with the guy who came to work for us, because he had more fun than he'd had in school, and made more that year from stock options than any of his professors did in salary. So instead of crawling back repentant at the end of the year, he took another year off and went to Europe. He did eventually graduate at about 26.
 
@@ -147,3 +147,4 @@ Notes
 
 
 **Thanks** to Trevor Blackwell, Alex Lewin, Jessica Livingston, Robert Morris, Eric Raymond, and several `anonymous CS professors <http://www.paulgraham.com/undergrad2.html>`__ for reading drafts of this, and to the students whose questions began it.
+
