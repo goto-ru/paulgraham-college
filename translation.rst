@@ -22,7 +22,7 @@ Recently I've had several emails from computer science undergrads asking what to
 
 Не переживайте, если скажут нет. Отказы почти всегда менее личностные, чем считает тот, кому отказали. Просто переходите дальше. (Это применимо и к свиданьям.)
 
-Beware, because although most professors are smart, not all of them work on interesting stuff. Professors have to publish novel results to advance their careers, but there is more competition in more interesting areas of research. So what less ambitious professors do is turn out a series of papers whose conclusions are novel because no one else cares about them. You're better off avoiding these.
+Осторожно - то, что профессора умные, не значит, что они все работают над интересными проектами. Профессора должны предоставлять оригинальные исследования для продвижения своих карьер, но в более интересных областях больше соревновательности. Поэтому менее амбициозные профессора делают исследования, которые являются оригинальными потому, что они никому не важны. Этих вам стоит избегать.
 
 I never worked as a research assistant, so I feel a bit dishonest recommending that route. I learned to program by writing stuff of my own, particularly by trying to reverse-engineer Winograd's SHRDLU. I was as obsessed with that program as a mother with a new baby.
 
