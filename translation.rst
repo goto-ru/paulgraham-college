@@ -18,7 +18,7 @@ Recently I've had several emails from computer science undergrads asking what to
 
 Другим способом научиться хорошо программировать является учиться у других хороших программистов. Программисты сортируют себя в племена по типу их работы и используемым инструментам, а некоторые племена `умнее <http://www.paulgraham.com/pypar.html>`__ других. Оглянитесь и определите, над чем работают умные люди; скорее всего, есть причины.
 
-Some of the smartest people around you are professors. So one way to find interesting work is to volunteer as a research assistant. Professors are especially interested in people who can solve tedious system-administration type problems for them, so that is a way to get a foot in the door. What they fear are flakes and resume padders. It's all too common for an assistant to result in a net increase in work. So you have to make it clear you'll mean a net decrease.
+Одними из самых умных людей вокруг вас являются профессора. Поэтому можно найти интересную работу, работая ассистентом по исследованиям. Профессорам особенно интересны люди, способные решать скучные задачи по системному администрированию, так что так можно сделать первый шаг. Они боятся ненадежных людей и ложных резюме. Очень часто случается, что ассистент увеличивает общее количество работы. Вы же хотите показать, что его уменьшите.
 
 Don't be put off if they say no. Rejection is almost always less personal than the rejectee imagines. Just move on to the next. (This applies to dating too.)
 
