@@ -7,30 +7,30 @@ March 2005
 
 Recently I've had several emails from computer science undergrads asking what to do in college. I might not be the best source of advice, because I was a philosophy major in college. But I took so many CS classes that most CS majors thought I was one. I was certainly a hacker, at least.
 
-Hacking
--------
+Хакинг
+------
 
-What should you do in college to become a `good hacker <http://www.paulgraham.com/gh.html>`__? There are two main things you can do: become very good at programming, and learn a lot about specific, cool problems. These turn out to be equivalent, because each drives you to do the other.
+Что надо делать в колледже, чтобы стать `хорошим хакером <http://www.paulgraham.com/gh.html>`__? Есть две такие вещи: научиться хорошо программировать, и узнать побольше о специфических интересных задачах. Оказывается, что это эквивалентно, поскольку одно заставляет вас делать и второе.
 
-The way to be good at programming is to work (a) a lot (b) on hard problems. And the way to make yourself work on hard problems is to work on some very engaging project.
+Чтобы хорошо программировать, нужно работать много и над сложными задачами. А заставить себя работать над сложными задачами можно, начав работать над каким-то увлекательным проектом.
 
-Odds are this project won't be a class assignment. My friend Robert learned a lot by writing network software when he was an undergrad. One of his projects was to connect Harvard to the Arpanet; it had been one of the original nodes, but by 1984 the connection had died. [1]_ Not only was this work not for a class, but because he spent all his time on it and neglected his studies, he was kicked out of school for a year. [2]_ It all evened out in the end, and now he's a professor at MIT. But you'll probably be happier if you don't go to that extreme; it caused him a lot of worry at the time.
+Скорее всего, это будет не домашнее задание. Мой друг Роберт многому научился, пока писал сетевое програмное обеспечение, будучи студентом. Одним из его проектов стало подключение Гарварда к Arpanet; это был один из первых хостов, но к 1984 году соединение разорвалось. [1]_ Не только это был внеклассный проект, но поскольку он тратил на него все свое время, игнорируя образование, его выкинули из школы на год. [2]_ В результате все выровнялось, и сейчас он - профессор MIT. Но вам скорее всего будет лучше, если до такого не дойдете; тогда он очень беспокоился из-за этого.
 
-Another way to be good at programming is to find other people who are good at it, and learn what they know. Programmers tend to sort themselves into tribes according to the type of work they do and the tools they use, and some tribes are `smarter <http://www.paulgraham.com/pypar.html>`__ than others. Look around you and see what the smart people seem to be working on; there's usually a reason.
+Другим способом научиться хорошо программировать является учиться у других хороших программистов. Программисты собираются в племена по типу их работы и используемым инструментам, и некоторые племена `умнее <http://www.paulgraham.com/pypar.html>`__ других. Оглянитесь и определите, над чем работают умные люди; скорее всего, есть причины.
 
-Some of the smartest people around you are professors. So one way to find interesting work is to volunteer as a research assistant. Professors are especially interested in people who can solve tedious system-administration type problems for them, so that is a way to get a foot in the door. What they fear are flakes and resume padders. It's all too common for an assistant to result in a net increase in work. So you have to make it clear you'll mean a net decrease.
+Одними из самых умных людей вокруг вас являются профессора. Поэтому можно найти интересную работу, работая ассистентом по исследованиям. Профессорам особенно нужны люди, способные решать скучные задачи по системному администрированию, так что так можно сделать первый шаг. Они боятся ненадежных людей и ложных резюме. Очень часто случается, что с приходом ассистента увеличивается общее количество работы. Вам же надо показать, что с вашим приходом оно сократится.
 
-Don't be put off if they say no. Rejection is almost always less personal than the rejectee imagines. Just move on to the next. (This applies to dating too.)
+Не переживайте, если скажут нет. Отказы почти всегда менее личностные, чем считает тот, кому отказали. Просто переходите дальше. (Это применимо и к свиданьям.)
 
-Beware, because although most professors are smart, not all of them work on interesting stuff. Professors have to publish novel results to advance their careers, but there is more competition in more interesting areas of research. So what less ambitious professors do is turn out a series of papers whose conclusions are novel because no one else cares about them. You're better off avoiding these.
+Осторожно - то, что профессора умные, не значит, что они все работают над интересными проектами. Профессора должны предоставлять оригинальные исследования для продвижения своих карьер, но в более интересных областях больше соперничества. Поэтому менее амбициозные профессора делают исследования, которые являются оригинальными потому, что они никому не важны. Этих вам стоит избегать.
 
-I never worked as a research assistant, so I feel a bit dishonest recommending that route. I learned to program by writing stuff of my own, particularly by trying to reverse-engineer Winograd's SHRDLU. I was as obsessed with that program as a mother with a new baby.
+Я сам никогда не был ассистентом, поэтому мне кажется несколько нечестным предлагать этот путь. Я учился программировать, создавая свои программы, в особенности пробуя обратно проектировать SHRDLU от Winograd. Эта программа занимала меня, как новорожденный малыш маму.
 
-Whatever the disadvantages of working by yourself, the advantage is that the project is all your own. You never have to compromise or ask anyone's permission, and if you have a new idea you can just sit down and start implementing it.
+Несмотря на все минусы самостоятельной работы, плюс в том, что проект полностью ваш. Не надо делать компромиссов или спрашивать разрешения, а сразу после возникновения новой идеи можно сразу ее реализовать.
 
-In your own projects you don't have to worry about novelty (as professors do) or profitability (as businesses do). All that matters is how hard the project is technically, and that has no correlation to the nature of the application. "Serious" applications like databases are often trivial and dull technically (if you ever suffer from insomnia, try reading the technical literature about databases) while "frivolous" applications like games are often very sophisticated. I'm sure there are game companies out there working on products with more intellectual content than the research at the bottom nine tenths of university CS departments.
+В собственных проектах не надо задумываться об оригинальности (как приходится профессорам) и о рентабельности (как приходится компаниям). Важна лишь техническая сложность, а она никак не связана с природой применения. "Серьезные" программы, к примеру, базы данных, часто тривиальны и технически скучны (если страдаете от бессоницы, почитайте техническую литературу про базы данных), а "фривольные" программы, как игры, часто очень сложные. Уверен, что существуют игровые компании, работающие над проектами с большей частью интеллектуального содержимого, чем в 9/10 исследований университетских факультетов информатики.
 
-If I were in college now I'd probably work on graphics: a network game, for example, or a tool for 3D animation. When I was an undergrad there weren't enough cycles around to make graphics interesting, but it's hard to imagine anything more fun to work on now.
+Будь я сейчас в колледже, я бы работал над графикой: к примеру, над сетевой игрой, или программой 3D-анимации. Когда я был студентом, не было достаточного количества вычислительных мощностей, чтобы графика была интересной, но сейчас сложно найти что-либо более увлекательное.
 
 Математика
 ----------
@@ -122,12 +122,12 @@ If I were in college now I'd probably work on graphics: a network game, for exam
 Notes
 -----
 
-.. [1] No one seems to have minded, which shows how unimportant the Arpanet (which became the Internet) was as late as 1984.
+.. [1] Никому до этого не было дела, что показывает, насколько Arpanet (ставший Интернетом) был маловажным в 1984 году.
 
 .. [2]
-        This is why, when I became an employer, I didn't care about GPAs. In fact, we actively sought out people who'd failed out of school. We once put up posters around Harvard saying "Did you just get kicked out for doing badly in your classes because you spent all your time working on some project of your own? Come work for us!" We managed to find a kid who had been, and he was a great hacker.
+        Поэтому, когда я стал работодателем, мне не были важны оценки. Мы даже активно искали людей, проваливших школу. Мы однажды повесили по Гарварду плакаты, на которых было написано: "Вас выкинули за плохую успеваемость из-за того, что были слишком заняты своим проектом? Приходите к нам на работу!" Один человек, пришедший по такому объявлению, оказался отличным хакером.
 
-        When Harvard kicks undergrads out for a year, they have to get jobs. The idea is to show them how awful the real world is, so they'll understand how lucky they are to be in college. This plan backfired with the guy who came to work for us, because he had more fun than he'd had in school, and made more that year from stock options than any of his professors did in salary. So instead of crawling back repentant at the end of the year, he took another year off and went to Europe. He did eventually graduate at about 26.
+        Когда Гарвард исключает студентов на год, они должны идти работать. По идее, это им показывает, насколько ужасен мир, чтобы они поняли, насколько им хорошо в колледже. План провалился для того парня, что пришел к нам на работу, поскольку ему было интереснее у нас, чем в школе, и он заработал больше на фондовых опционах, чем зарплата его профессоров. И вместо того, чтобы приползти обратно с раскаянием в конце года, он поехал в Европу еще на год. Закончил от обучение в 26 лет.
 
 .. [3]
         Eric Raymond says the best metaphors for hackers are in set theory, combinatorics, and graph theory.
