@@ -24,7 +24,7 @@ Recently I've had several emails from computer science undergrads asking what to
 
 Осторожно - то, что профессора умные, не значит, что они все работают над интересными проектами. Профессора должны предоставлять оригинальные исследования для продвижения своих карьер, но в более интересных областях больше соревновательности. Поэтому менее амбициозные профессора делают исследования, которые являются оригинальными потому, что они никому не важны. Этих вам стоит избегать.
 
-I never worked as a research assistant, so I feel a bit dishonest recommending that route. I learned to program by writing stuff of my own, particularly by trying to reverse-engineer Winograd's SHRDLU. I was as obsessed with that program as a mother with a new baby.
+Я сам никогда не был ассистентом, поэтому мне кажется несколько нечестным предлагать этот путь. Я учился программировать, создавая свои программы, в особенности пробуя обратно проектировать SHRDLU от Winograd. Эта программа занимала меня, как новорожденный малыш маму.
 
 Whatever the disadvantages of working by yourself, the advantage is that the project is all your own. You never have to compromise or ask anyone's permission, and if you have a new idea you can just sit down and start implementing it.
 
