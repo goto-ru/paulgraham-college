@@ -122,12 +122,12 @@ Recently I've had several emails from computer science undergrads asking what to
 Notes
 -----
 
-.. [1] Никому до этого не было дела, что показывает, насколько Arpanet (ставший Интернетом) был в 1984 году.
+.. [1] Никому до этого не было дела, что показывает, насколько Arpanet (ставший Интернетом) был маловажным в 1984 году.
 
 .. [2]
-        Поэтому, став работодателем, мне не были важны оценки. Мы даже активно искалиwe actively sought out people who'd failed out of school. We once put up posters around Harvard saying "Did you just get kicked out for doing badly in your classes because you spent all your time working on some project of your own? Come work for us!" We managed to find a kid who had been, and he was a great hacker.
+        Поэтому, став работодателем, мне не были важны оценки. Мы даже активно искали людей, проваливших школу. Мы однажды повесили по Гарварду плакаты, на которых было написано: "Вас выкинули за плохую успеваемость из-за того, что были слишком заняты своим проектом? Приходите к нам на работу!" Мы нашли одного такого, и он был отличным хакером.
 
-        When Harvard kicks undergrads out for a year, they have to get jobs. The idea is to show them how awful the real world is, so they'll understand how lucky they are to be in college. This plan backfired with the guy who came to work for us, because he had more fun than he'd had in school, and made more that year from stock options than any of his professors did in salary. So instead of crawling back repentant at the end of the year, he took another year off and went to Europe. He did eventually graduate at about 26.
+        Когда Гарвард исключает студентов на год, они должны идти работать. По идее, это им показывает, насколько ужасен мир, чтобы они поняли, насколько им хорошо в колледже. План провалился для того парня, что пришел к нам на работу, поскольку ему было интереснее у нас, чем в школе, и он заработал больше на фондовых опционах, чем зарплата его профессоров. И вместо того, чтобы приползти обратно с раскаянием в конце года, он поехал в Европу еще на год. Закончил от обучение в 26 лет.
 
 .. [3]
         Eric Raymond says the best metaphors for hackers are in set theory, combinatorics, and graph theory.
