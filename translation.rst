@@ -26,7 +26,7 @@ Recently I've had several emails from computer science undergrads asking what to
 
 Я сам никогда не был ассистентом, поэтому мне кажется несколько нечестным предлагать этот путь. Я учился программировать, создавая свои программы, в особенности пробуя обратно проектировать SHRDLU от Winograd. Эта программа занимала меня, как новорожденный малыш маму.
 
-Whatever the disadvantages of working by yourself, the advantage is that the project is all your own. You never have to compromise or ask anyone's permission, and if you have a new idea you can just sit down and start implementing it.
+Несмотря на все минусы самостоятельной работы, плюс в том, что проект полностью ваш. Не надо делать компромиссов или спрашивать разрешения, а сразу после возникновения новой идей можно сразу ее реализовать.
 
 In your own projects you don't have to worry about novelty (as professors do) or profitability (as businesses do). All that matters is how hard the project is technically, and that has no correlation to the nature of the application. "Serious" applications like databases are often trivial and dull technically (if you ever suffer from insomnia, try reading the technical literature about databases) while "frivolous" applications like games are often very sophisticated. I'm sure there are game companies out there working on products with more intellectual content than the research at the bottom nine tenths of university CS departments.
 
