@@ -1,11 +1,11 @@
 Undergraduation
 ===============
 
-March 2005
+Март 2005
 
-*(Parts of this essay began as replies to students who wrote to me with questions.)*
+*(Разделы этого эссе начали свою жизнь как ответы студентам, писавшим мне с вопросами.)*
 
-Recently I've had several emails from computer science undergrads asking what to do in college. I might not be the best source of advice, because I was a philosophy major in college. But I took so many CS classes that most CS majors thought I was one. I was certainly a hacker, at least.
+В последнее время до меня (слава б-гу, не вживую, а по почте) внезапно начали домогаться младшекурсники: немного отступила, видимо, эйфория от поступления и вдруг появился вопрос: а что тут делать-то? Я, возможно, не лучший источник советов по поводу формального IT-образования, учитывая, что моим major'ом была философия; впрочем, я посещал так много занятий по CS, что тамошний народ считал меня своим. Уж хакером-то я точно был.
 
 Хакинг
 ------
@@ -119,8 +119,8 @@ Recently I've had several emails from computer science undergrads asking what to
 
 Поэтому, лучшее, что можно сделать в колледже, вне зависимости, хотите ли вы поступить в аспирантуру или просто быть хорошим хакером, это определить, что вам действительно нравится. Сложно заставить профессоров сделать вас аспирантом, и невозможно заставить задачи решаться. Именно в колледже перестает работать обман. И с этого момента, если вы не хотите идти в большую компанию, что напоминает откат к старшей школе, можно продвинуться, только делая то, что тебе `нравится <http://www.paulgraham.com/love.html>`__.
 
-Notes
------
+Заметки
+-------
 
 .. [1] Никому до этого не было дела, что показывает, насколько Arpanet (ставший Интернетом) был маловажным в 1984 году.
 
@@ -130,11 +130,11 @@ Notes
         Когда Гарвард исключает студентов на год, они должны идти работать. По идее, это им показывает, насколько ужасен мир, чтобы они поняли, насколько им хорошо в колледже. План провалился для того парня, что пришел к нам на работу, поскольку ему было интереснее у нас, чем в школе, и он заработал больше на фондовых опционах, чем зарплата его профессоров. И вместо того, чтобы приползти обратно с раскаянием в конце года, он поехал в Европу еще на год. Закончил от обучение в 26 лет.
 
 .. [3]
-        Eric Raymond says the best metaphors for hackers are in set theory, combinatorics, and graph theory.
+        Eric Raymond говорит, что лучшие метафоры для хакеров живут где-то в районе теории множеств, комбинаторики, и теории графов.
 
-        Trevor Blackwell reminds you to take math classes intended for math majors. "'Math for engineers' classes sucked mightily. In fact any 'x for engineers' sucks, where x includes math, law, writing and visual design."
+        Trevor Blackwell напоминает, что следует ходить на курсы по математике для математиков. "'Матан для программистов (за 3 семестра)' просто эпически уныл. В общем-то, произвольных 'x для программистов' уныл, x \in {математика, право, журнализм, дизайн}."
 
-.. [4]  Other highly recommended books: *What is Mathematics?*, by Courant and Robbins; *Geometry and the Imagination* by Hilbert and Cohn-Vossen. And for those interested in graphic design, `Byrne's Euclid <http://www.math.ubc.ca/people/faculty/cass/Euclid/byrne.html>`__.
+.. [4]  Ещё несколько очень полезных книг: *What is Mathematics?*, Courant and Robbins; *Geometry and the Imagination*, Hilbert and Cohn-Vossen. Для заинтересованных же в дизайне, `Euclid <http://www.math.ubc.ca/people/faculty/cass/Euclid/byrne.html>`__ Byrne.
 
 .. [5] А если хотите, чтобы была идеальная жизнь, то стоит поступить в аспирантуру, тайно написать диссертацию в первые два года, а затем развлекаться следующие 3 года, записывая по главе за раз. Аспиранты позавидовали бы идее, но ни у кого из тех, кого я знаю, не хватило на это дисциплины.
 
@@ -146,4 +146,4 @@ Notes
         Что добавляет удивительное, но необходимое, следствие: маленькие колледжи по гуманитарным наукам обречены. Большинство умных учеников старших школ по крайней мере думают о том, чтобы пойти в науку, даже если в конце концов отказываются от этого. Зачем идти в колледж, ограничивающий их варианты?
 
 
-**Thanks** to Trevor Blackwell, Alex Lewin, Jessica Livingston, Robert Morris, Eric Raymond, and several `anonymous CS professors <http://www.paulgraham.com/undergrad2.html>`__ for reading drafts of this, and to the students whose questions began it.
+**Спасибо** Trevor Blackwell, Alex Lewin, Jessica Livingston, Robert Morris, Eric Raymond, и нескольким `анонимным профессорам CS <http://www.paulgraham.com/undergrad2.html>`__ за вычитку черновиков этого эссе, и студентам, благодаря вопросам которых оно появилось.
